@@ -11,7 +11,9 @@ https://www.nuget.org/packages/WindowsAPICodePack-Core/
 https://www.nuget.org/packages/WindowsAPICodePack-Shell/
 
 Screenshot:
-![Alt text](https://raw.githubusercontent.com/g4rb4g3/OrphanPatchMover/master/screenshot.JPG)
+![Screenshot](https://raw.githubusercontent.com/g4rb4g3/OrphanPatchMover/master/screenshot.JPG)
+
+[Download](https://raw.githubusercontent.com/g4rb4g3/OrphanPatchMover/master/OrphanPatchMover.zip "Download")
 
 How to use:
 1. Start it
